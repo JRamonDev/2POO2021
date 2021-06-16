@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <form>
+        <h1 id="titulo">Calculadora de IMC</h1>
+        <h4 id="titulo">Ingrese altura y peso para calcular su IMC</h4>
+        <h4 id="titulo">Ingrese edad para saber si es mayor</h4>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre">
+        <br><br>
+        <label for="edad">Edad:</label>
+        <input type="number" id="edad" required="required"> 
+        <br><br>
+        <label for="cedula">Cédula:</label>
+        <input type="text" id="edad">
+        <br><br>
+        <label for="sexo"> Sexo:</label>
+        <input type="radio" name="hm" value="h"> Hombre
+        <input type="radio" name="hm" value="m"> Mujer
+        <br><br>
+        <label for="altura"> Altura(m):</label>
+        <input  type="number" id="altura" required="required">
+        <br><br>
+        <label for="peso">Peso(kg):</label>
+        <input type="number" id="peso" required="required">
+        <br><br>
+        <input type="button" onclick = "resultadoIMC.calcularIMC(); mayoredad.esMayor()"class = "objeto2" id = "objeto2" value="Calcular" >
+        <p>
+            <span id="resultadoIMC" ></span>
+            </p>
+            <p>
+            <span id="estadopersona" ></span>
+            </p>
+            </div>
+      </form>
+      
+
+      <script src="JS/app.js"></script>
+</body>
+</html>

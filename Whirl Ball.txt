@@ -1,0 +1,13 @@
+Dificultad del juego.
+Esta bastante bien equilibrada, la dificultad estandar que trae es bastante buena para no arruinar la jugabilidad o el entretenimiento del juego.
+
+Que elementos le incorporaría al juego.
+Un sistema de dificultades entre fácil, normal y dificil.
+Estaria bien que el juego tenga como una ruleta de la suerte para conseguir fondos de niveles o diferentes aspectos de canicas.
+Me gustaría que tuviera algo como power ups o poderes especiales que se recojan mientras juegas(por ejemplo que la canica pueda saltar por un determinado tiempo o que la canica sea inmune durante unos segundos).
+
+Cual fue el nivel que alcanzo en el juego.
+Nivel 73.
+
+Que le cambiaria en la interfaz
+Algo que estaría interesante, aunque eso ya es como más para una mejor comodidad es poder elegir si jugar de manera vertical u horizontal, a su vez le agregaria otros tipos de musica.
